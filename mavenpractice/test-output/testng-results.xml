@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6910" started-at="2022-09-14T23:30:38 IST" finished-at="2022-09-14T23:30:45 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6910" started-at="2022-09-14T23:30:38 IST" finished-at="2022-09-14T23:30:45 IST">
+      <class name="mavenpractice1.mavenclass">
+        <test-method status="PASS" signature="mavenclasss()[pri:0, instance:mavenpractice1.mavenclass@670b40af]" name="mavenclasss" is-config="true" duration-ms="6611" started-at="2022-09-14T23:30:38 IST" finished-at="2022-09-14T23:30:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mavenclasss -->
+        <test-method status="PASS" signature="attestmet()[pri:0, instance:mavenpractice1.mavenclass@670b40af]" name="attestmet" duration-ms="229" started-at="2022-09-14T23:30:45 IST" finished-at="2022-09-14T23:30:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- attestmet -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:mavenpractice1.mavenclass@670b40af]" name="aftermethod" is-config="true" duration-ms="0" started-at="2022-09-14T23:30:45 IST" finished-at="2022-09-14T23:30:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+      </class> <!-- mavenpractice1.mavenclass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
